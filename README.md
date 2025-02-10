@@ -1,2 +1,1 @@
-# Inventory_Management_System-SQL
-SQL project to automate Inventory Management
+This project features a robust database designed to efficiently manage inventory, including Suppliers, Products, Customers, Stock, and Orders. Advanced SQL techniques were utilized to ensure data accuracy, integrity, and optimized inventory tracking. The repository includes database schema, SQL scripts for data manipulation, and query optimizations for efficient inventory management.
